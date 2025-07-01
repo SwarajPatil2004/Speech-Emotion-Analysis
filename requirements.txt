@@ -1,5 +1,12 @@
-librosa>=0.9.2
-numpy>=1.22.0
-scikit-learn>=1.1.1
-tensorflow>=2.9.0
-keras>=2.9.0
+# numpy
+# scikit-learn
+# librosa
+# soundfile
+# pyaudio
+# matplotlib
+# pandas
+librosa
+torch
+numpy
+matplotlib
+torchvision
