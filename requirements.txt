@@ -1,12 +1,6 @@
-# numpy
-# scikit-learn
-# librosa
-# soundfile
-# pyaudio
-# matplotlib
-# pandas
-librosa
-torch
+pandas
 numpy
+seaborn
 matplotlib
-torchvision
+librosa
+IPython
