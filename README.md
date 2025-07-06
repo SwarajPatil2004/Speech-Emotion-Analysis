@@ -13,9 +13,6 @@ A comprehensive project for **Speech Emotion Recognition** using four benchmark 
 - [Usage](#usage)
 - [Features & Methods](#features--methods)
 - [Libraries & Tools](#libraries--tools)
-- [Results & Evaluation](#results--evaluation)
-- [License](#license)
-- [References](#references)
 
 ---
 
@@ -158,22 +155,6 @@ warnings.filterwarnings('ignore')
 ```
 
 > *Additional libraries such as scikit-learn, keras, and soundfile are used for modeling and audio I/O as needed.*
-
----
-
-## Results & Evaluation
-
-- **Performance:**  
-  Models are evaluated on a held-out test set from each dataset. Performance metrics and confusion matrices are plotted for analysis.
-- **Visualization:**  
-  Feature distributions and model predictions are visualized using seaborn and matplotlib.
-
----
-
-## License
-
-- **RAVDESS:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)[^1].
-- **Other datasets:** For research use only. Please refer to individual dataset licenses.
 
 ---
 
