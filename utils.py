@@ -10,7 +10,7 @@ def preprocess_audio(file_path, max_pad_len=174):
             mfcc = np.pad(mfcc, pad_width=((0, 0), (0, pad_width)), mode='constant')
         else:
             mfcc = mfcc[:, :max_pad_len]
-        mfcc = mfcc[np.newaxis, ..., np.newaxis]  # (1, 40, 174, 1)
+        mfcc = mfcc[np.newaxis, ..., np.newaxis]
         return mfcc
     except Exception as e:
         print("Error during preprocessing:", e)
