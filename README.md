@@ -36,7 +36,7 @@ This project uses the following datasets:
 | **CREMA-D** | Crowd-sourced Emotional Multimodal Actors Dataset | Anger, Disgust, Fear, Happy, Neutral, Sad | 91 actors, 7442 clips | Research use |
 | **SAVEE** | Surrey Audio-Visual Expressed Emotion | Anger, Disgust, Fear, Happy, Neutral, Sad, Surprise | 4 male actors, 480 files | Research use |
 
-> **Note:** Please download each dataset from its official source and place it in the respective `data/` subfolders as per the directory structure.
+> **Note:** Please download each dataset from its official source and place it in the respective `Dataset/` subfolders as per the directory structure.
 
 ---
 
@@ -89,7 +89,7 @@ pip install -r requirements.txt
       - [RAVDESS - Ryerson Audio-Visual Database of Emotional Speech and Song](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
       - [TESS - Toronto Emotional Speech Set](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
       - [CREMA-D - Crowd-sourced Emotional Multimodal Actors Dataset](https://www.kaggle.com/datasets/ejlok1/cremad)
-      - [SAVEE - Surrey Audio-Visual Expressed Emotion](https://www.kaggle.com/datasets/ejlok1/savee-database)
+      - [SAVEE - Surrey Audio-Visual Expressed Emotion](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)
 
 
 ---
